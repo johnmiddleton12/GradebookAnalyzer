@@ -1,5 +1,7 @@
 ### Gradebook Analyzer
 
+* Designed to be ran in pycharm, with anaconda installed (or numpy and tkinter)
+
 This program will take in a folder organized system
 of graded types of assignments
 
